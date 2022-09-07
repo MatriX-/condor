@@ -7,8 +7,6 @@ import os
 import shutil
 from colorama import Fore
 
-def banner():
-
 
 def payloadlist():
     print(f'''    Payload list:
