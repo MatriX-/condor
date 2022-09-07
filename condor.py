@@ -8,17 +8,7 @@ import shutil
 from colorama import Fore
 
 def banner():
-    print(f'''{Fore.RED}
-    ▄████▄   ▒█████   ███▄    █ ▓█████▄  ▒█████   ██▀███  
-    ▒██▀ ▀█  ▒██▒  ██▒ ██ ▀█   █ ▒██▀ ██▌▒██▒  ██▒▓██ ▒ ██▒
-    ▒▓█    ▄ ▒██░  ██▒▓██  ▀█ ██▒░██   █▌▒██░  ██▒▓██ ░▄█ ▒
-   {Fore.LIGHTRED_EX} ▒▓▓▄ ▄██▒▒██   ██░▓██▒  ▐▌██▒░▓█▄   ▌▒██   ██░▒██▀▀█▄  
-    ▒ ▓███▀ ░░ ████▓▒░▒██░   ▓██░░▒████▓ ░ ████▓▒░░██▓ ▒██▒
-    ░ ░▒ ▒  ░░ ▒░▒░▒░ ░ ▒░   ▒ ▒  ▒▒▓  ▒ ░ ▒░▒░▒░ ░ ▒▓ ░▒▓░
-    ░  ▒     ░ ▒ ▒░ ░ ░░   ░ ▒░ ░ ▒  ▒   ░ ▒ ▒░   ░▒ ░ ▒░
-    ░        ░ ░ ░ ▒     ░   ░ ░  ░ ░  ░ ░ ░ ░ ▒    ░░   ░ 
-    ░ ░          ░ ░           ░    ░        ░ ░     ░     
-    ░                             ░                        
+    print(f'''{Fore.RED}                       
 
                         {Fore.LIGHTRED_EX}[{Fore.LIGHTWHITE_EX}Condor v1.0{Fore.LIGHTRED_EX}]
                     {Fore.LIGHTRED_EX}[{Fore.LIGHTWHITE_EX}Developed by MrEmpy{Fore.LIGHTRED_EX}]
